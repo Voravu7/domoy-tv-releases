@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "product": "Domoy-Orsay2011-UI",
+  "version": "2026.11.14-net.8",
+  "generation": 8,
+  "base_generation": 7,
+  "delivery": "reviewed-offline-USB",
+  "origin_configured": false,
+  "scope": "UI files only; no firmware, services, credentials or runtime state",
+  "files": [
+    {
+      "path": "release-info.js",
+      "old_sha256": "217415f57bd290b564cf5fb4487578603a74342034ef24db94b8f517898025db",
+      "sha256": "d6e51a1732b6e56cd4b28d64e07956e0db73bf04a98678530a1e9e731f56b7ba",
+      "bytes": 124
+    }
+  ]
+}

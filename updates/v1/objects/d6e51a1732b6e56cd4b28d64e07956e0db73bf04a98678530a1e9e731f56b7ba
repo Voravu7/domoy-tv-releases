@@ -1,0 +1,3 @@
+/* Generated offline release identity. */
+var DOMOY_RELEASE_GENERATION = 8;
+var DOMOY_RELEASE_VERSION = "2026.11.14-net.8";
